@@ -1,1 +1,4 @@
-int a=5; int b=7;
+Achu
+int a=5; int d=7;
+int a=5; int c=7;
+main
